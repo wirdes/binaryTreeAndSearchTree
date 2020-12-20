@@ -3,7 +3,7 @@ Binary Tree And Binary Search Tree
 
 # 1. Binary Tree Data Structure
 A tree structure with a maximum of two Child nodes on each node is called a Binary tree data structure. This adding data to the tree is done in two ways:
-- Adding from the right 
+- Adding from the right. 
 - Adding from the left. 
 
 These two methods of addition both is following the rule.
@@ -16,7 +16,7 @@ Data structure and functions to be created
 # 2.Index Table
 Binary search tree data development design is required for an index table that sorts the sample grades from the highest to the same, and the student number is enlarged by using the student number and lecture notes given in the other tables.
 
-In  St-Number  Note
+Index StNumber Note
 
 ![](https://raw.githubusercontent.com/wirdes/binaryTreeAndSearchTree/main/%C4%B1ndexTable.png?token=AK6HHKXCFBWQNV52WDB2APS75CLLG)
 
