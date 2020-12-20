@@ -12,7 +12,12 @@ Both of these two methods of addition contain the following rules.
 Searching in binary treee data structure is done with two basic training. These are Deep first search (DFS) and Extensive first search (BFS). In the course for the first of these, there are also three approach methods and for the second, the approach method using the queue data type is the nurse. This assignment is given below.
 Data structure and functions to be created
 - A data structure for implementing the Binary Tree
-- A Function that adds to the tree from the right according to the rules given in the lesson. 3. A function that adds to the tree from the left according to the rules given in the lesson. 4. Pre-order Given in Lecture With DFS approach, all elements of the tree are software functions. 5. A software function that prints the whole tree sequentially using the DFS approach. 6. Given in the course, it is a function to program all the elements of the tree with the Post-order DFS approach. 7. Desrte A function that outputs all elements of the tree with the given BFS approach.
+- A Function that adds to the tree from the right according to the rules given in the lesson. 
+- A function that adds to the tree from the left according to the rules given in the lesson. 
+- Pre-order Given in Lecture With DFS approach, all elements of the tree are software functions. 
+- A software function that prints the whole tree sequentially using the DFS approach. 
+- Given in the course, it is a function to program all the elements of the tree with the Post-order DFS approach. 
+- Desrte A function that outputs all elements of the tree with the given BFS approach.
 # 2.Index Table
 Binary search tree data development design is required for an index table that sorts the sample grades from the highest to the same, and the student number is enlarged by using the student number and lecture notes given in the other tables.
 
