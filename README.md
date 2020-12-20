@@ -2,7 +2,11 @@ Binary Tree And Binary Search Tree
 -------------
 
 # 1. Binary Tree Data Structure
-A tree structure with a maximum of two Child nodes on each node is called a Binary tree data structure. Data to this tree is made in two places. Adding from the right and adding from the left. These two methods of addition both follow the two rules.
+A tree structure with a maximum of two Child nodes on each node is called a Binary tree data structure. This adding data to the tree is done in two ways:
+- Adding from the right 
+- Adding from the left. 
+
+These two methods of addition both is following the rule.
 - If there is no data on the right (or left) of the node to which data will be added to the right (or left), the data will be added directly.
 - If there is data on the right (or left) of the node to which data will be added, that data will be added to the right (or left) of the new data and the new tree will be added to the right (or left) of the node to be added.
 Searching in binary treee data structure is done with two basic training. These are Deep first search (DFS) and Extensive first search (BFS). In the course for the first of these, there are also three approach methods and for the second, the approach method using the queue data type is the nurse. This assignment is given below.
