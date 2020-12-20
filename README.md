@@ -6,7 +6,7 @@ A tree structure with a maximum of two Child nodes on each node is called a Bina
 - Adding from the right. 
 - Adding from the left. 
 
-These two methods of addition both is following the rule.
+Both is following the rule these two methods of addition. 
 - If there is no data on the right (or left) of the node to which data will be added to the right (or left), the data will be added directly.
 - If there is data on the right (or left) of the node to which data will be added, that data will be added to the right (or left) of the new data and the new tree will be added to the right (or left) of the node to be added.
 Searching in binary treee data structure is done with two basic training. These are Deep first search (DFS) and Extensive first search (BFS). In the course for the first of these, there are also three approach methods and for the second, the approach method using the queue data type is the nurse. This assignment is given below.
@@ -16,7 +16,7 @@ Data structure and functions to be created
 # 2.Index Table
 Binary search tree data development design is required for an index table that sorts the sample grades from the highest to the same, and the student number is enlarged by using the student number and lecture notes given in the other tables.
 
-  Index   StNumber    Note
+ Index   StNumber    Note
 
 ![](https://raw.githubusercontent.com/wirdes/binaryTreeAndSearchTree/main/%C4%B1ndexTable.png?token=AK6HHKXCFBWQNV52WDB2APS75CLLG)
 
